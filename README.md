@@ -8,35 +8,41 @@ Repositório criado no laboratório de IA para Devs do Bootcamp do Santander na 
 Siga o passo a passo: 
 
 ### Checklist para gerar artigos de qualidade
-- [] DEFINIR O ASSUNTO
-- [] TÍTULO CHAMATIVO: HEADLINE
-- [] IMAGEM DE CAPA CHAMATIVA
-- [] DEFINIR O ASSUNTO EM BLOCOS DO ARTIGO
-- [] POSTAR O ARTIGO COM CALL TO ACTION
+- [ ] DEFINIR O ASSUNTO
+- [ ] TÍTULO CHAMATIVO: HEADLINE
+- [ ] IMAGEM DE CAPA CHAMATIVA
+- [ ] DEFINIR O ASSUNTO EM BLOCOS DO ARTIGO
+- [ ] POSTAR O ARTIGO COM CALL TO ACTION
 
 ## Assunto
-Iridium – O que é?
+Diretivas - Angular
 
 ## Título
-Prompt “Crie 5 headlines para nomes de artigos sobre o assunto linguagem de programação Iridium”
-"Guia Completo para Iniciantes: Primeiros Passos com a Linguagem de Programação Iridium"
+Diretivas estruturais versus diretivas de atributo: Qual usar no Angular?
 
 ## Capa
 Feito com Lexica.Art e Power Point
-Conteúdo gerado por ChatGPT e revisões humanas
+
 
 ## Blocos
-- Faça um call to action para as minhas redes sociais
-_ Coloque 3 hastags que façam sentido
+Comporte-se como um escritor de artigos tech front-end e escreva o artigo atendendo as regras abaixo:
 
 {REGRAS}
+> No máximo 5 linhas por blocos de explicação
 
-	No máximo 5 linhas por blocos de explicação
+> Me explique de maneira informal como se eu fosse uma criança de 10 anos
 
-	Me explique de maneira informal como se eu fosse uma criança de 10 anos
+> Os blocos que serão criados estão abaixo:
+- O que são diretivas no Angular
+- O que são diretivas estruturais
+- Cite exemplos com código diretivas estruturais
+- O que são diretivas de atributos
+- Cite exemplos com código de diretiva de atributos
+- Faça um call to action para minhas redes sociais
+- Coloque 3 hastags que façam sentido
 
-	Os blocos que serão criados estão abaixo
-
+Ilustração de capa: gerada pela lexica.art
+Conteúdo gerado por: ChatGPT e revisão humana
 
 ## Conclusão
 Conteúdo gerado por inteligência artificial, revisado 100% por humano, edição humana, voltado para ganho de produtividade DEv.
