@@ -2,7 +2,7 @@
 # Como criar Artigos Técnicos com ChatGPT e Lexica.art
 
 Repositório criado no laboratório de IA para Devs do Bootcamp do Santander na DIO - Instrutor Felipe Aguiar
-### Leia na íntegra no link (https://web.dio.me/articles/guia-completo-para-iniciantes-primeiros-passos-com-a-linguagem-de-programacao-iridium?back=%2Farticles&page=1&order=oldest)
+### Leia na íntegra no link (https://www.dio.me/articles/diretivas-estruturais-versus-diretivas-de-atributo-qual-usar-no-angular-ITZYYQ?q=1293)
 
 ### Artigo criado por I.A. 
 Siga o passo a passo: 
